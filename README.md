@@ -53,7 +53,7 @@
 [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=flat&logo=youtube&logoColor=white)](https://youtube.com/@smartuse_tech_byali)  [youtube.com/@smartuse_tech_byali](https://youtube.com/@smartuse_tech_byali)
 
 📧 **Email:**  
-[![Email](https://img.shields.io/badge/Email-0078D4?style=flat&logo=gmail&logoColor=white)](mailto:thealibhatti.dev@gmail.com)  [alihassnainbhatti110@gmail.com](mailto:thealibhatti.dev@gmail.com)
+[![Email](https://img.shields.io/badge/Email-0078D4?style=flat&logo=gmail&logoColor=white)](mailto:thealibhatti.dev@gmail.com)  [thealibhatti.dev@gmail.com](mailto:thealibhatti.dev@gmail.com)
 
 ---
 
