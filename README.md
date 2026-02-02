@@ -1,4 +1,4 @@
-# 👋 Hi, I’m Ali Bhatti
+# 👋 Hi, I’m Ali Hassnain Bhatti
 
 💻 **Web & WordPress Developer | C++, C#, Python, SQL**  
 🧠 **DSA, OOP & Database**  
@@ -45,9 +45,15 @@
 ---
 
 ## 📫 Connect with Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ali-hassnain-bhatti-1a0506312)  
-[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@smartuse_tech_byali)  
-[![Email](https://img.shields.io/badge/Email-0078D4?style=for-the-badge&logo=gmail&logoColor=white)](mailto:thealibhatti.dev@gmail.com)
+
+🔗 **LinkedIn:**  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ali-hassnain-bhatti-1a0506312)  [linkedin.com/in/ali-hassnain-bhatti-1a0506312](https://www.linkedin.com/in/ali-hassnain-bhatti-1a0506312)
+
+📺 **YouTube:**  
+[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=flat&logo=youtube&logoColor=white)](https://youtube.com/@smartuse_tech_byali)  [youtube.com/@smartuse_tech_byali](https://youtube.com/@smartuse_tech_byali)
+
+📧 **Email:**  
+[![Email](https://img.shields.io/badge/Email-0078D4?style=flat&logo=gmail&logoColor=white)](mailto:thealibhatti.dev@gmail.com)  [alihassnainbhatti110@gmail.com](mailto:thealibhatti.dev@gmail.com)
 
 ---
 
